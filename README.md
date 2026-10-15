@@ -1,9 +1,5 @@
 # Student Performance Analytics System
 
-**Student:** Your Name
-**Course:** Python with AI – EWB Courses
-**Submission Date:** 15 October 2026
-
 ## Objective
 Analyze student marks and attendance data using NumPy and Pandas to
 generate grades, pass/fail results, subject-wise performance, and
